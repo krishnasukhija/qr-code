@@ -31,7 +31,6 @@
 
 .boldtext {
     font-weight: 700;
-    /* margin-bottom: 20px; */
     font-size: 15px;
     font-family: "Outfit", sans-serif;
 }
@@ -42,4 +41,5 @@
     font-family: "Outfit", sans-serif;
     font-weight: 400;
     margin-bottom: 15px;
+    color: hsl(216, 15%, 48%);
 }
