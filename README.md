@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component
+<!-- # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./preview.jpg)
 
@@ -84,4 +84,17 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
-**Have fun building!** 🚀
+**Have fun building!** 🚀 -->
+
+# Frontend Mentor - QR code component solution (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+
+## Table of contents
+- [Overview](#overview)
+- [Screenshot](#screenshot)
+
+
+## Overview
+This is the qr code scanner project that i have made using html and css. i have used flexbox to centre the content. and made a div card to place the all the necessary elements in it.
+
+### Screenshot
+![alt text](screenshot.png)
